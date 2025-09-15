@@ -1,4 +1,4 @@
-# Streamlit Breat Cancer Prediction Web App
+# Streamlit Breast Cancer Prediction Web App
 
 ## Introduction
 
